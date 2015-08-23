@@ -1,7 +1,7 @@
 # pianobar-notifier
 Terminal notifications for [pianobar](https://github.com/PromyLOPh/pianobar)
 
-![notification](../blob/master/notification.png)
+![notification](../master/notification.png)
 
 Using pianobar's `eventcmd` interface, 
 this script uses [terminal-notifier](https://github.com/julienXX/terminal-notifier) 
